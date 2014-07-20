@@ -15,7 +15,7 @@ For now I didn't find any BDD style testing library for Luvit unfortunately. Hop
 
 ## Last but not least
 
-If you still don't know whether to start investing in Luvit or not, my piece of advice - you definetely should! The only thing that Luvit misses right now is an active community. Technically there a lot of advantages among Node.js including such vital things as performance and speed. Lua is very handy and easy to switch from JavaScript language. Smart community which has experience with Node and knows it weakest points can bring Luvit to masses シ
+If you still don't know whether to start investing in Luvit or not, my piece of advice - you definetely should! The only thing that Luvit misses right now is an active community. Technically there a lot of advantages among Node.js including such vital things as performance and speed. Lua is very handy and easy to switch from JavaScript language. Smart community which has experience with Node and knows it weakest points can bring Luvit to masses so let's do it! シ
 
 ===
 **MIT License**
