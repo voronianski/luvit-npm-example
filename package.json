@@ -1,0 +1,15 @@
+{
+  "name": "luvit-npm-example",
+  "version": "0.0.1",
+  "description": "Example of using NPM together with Luvit.IO",
+  "main": "init.lua",
+  "scripts": {
+    "start": "luvit init.lua",
+    "test": "luvit test/init.lua"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "luvit-set": "0.0.1-5",
+    "luvit-test": "0.0.2"
+  }
+}
